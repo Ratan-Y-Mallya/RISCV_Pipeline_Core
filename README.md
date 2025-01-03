@@ -1,4 +1,4 @@
-# RISC-V Pipelined Core (Derived from Single-Cycle Core)
+# RISC-V 5 stage  Pipelined Core (Derived from Single-Cycle Core)
 
 ---
 
@@ -54,4 +54,13 @@ Compared the clock cycles per instruction (CPI) of the pipelined processor with 
 * Implement advanced branch prediction for efficient control hazard resolution.
 * Introduce instruction and data caches for faster memory access.
 * Extend support to RV64I for 64-bit processing.
+
+## RTL Analysis
+
+![image](https://github.com/user-attachments/assets/637f22aa-a85d-44ce-8ca5-23a4cefc4d1d)
+
+
+![image](https://github.com/user-attachments/assets/7ecaefd5-d314-477d-9184-6efe48582838)
+
+
 
